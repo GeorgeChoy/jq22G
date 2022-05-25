@@ -36,7 +36,7 @@ Pillow==4.1.1
 prompt-toolkit==1.0.15
 psycopg2==2.7.3.2
 Pygments==2.2.0
-PyJWT==1.5.3
+PyJWT==2.4.0
 pyparsing==2.2.0
 pysolr==3.3.2
 python-dateutil==2.6.1
